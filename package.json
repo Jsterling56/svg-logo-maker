@@ -1,6 +1,26 @@
 {
-  "dependencies": {
-    "inquirer": "^9.2.7",
-    "jest": "^29.5.0"
+    "dependencies": {
+      "inquirer": "^9.2.7"
+    },
+    "type": "module",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.21.5",
+      "@babel/preset-env": "^7.21.5",
+      "babel-jest": "^29.5.0",
+      "jest": "^29.5.0"
+    },
+    "name": "oop-svg-logo-maker",
+    "description": "<br> This is an SVG Logo Maker created for the Rutgers fullstack bootcamp module 10 challenge.  <br>",
+    "version": "1.0.0",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "author": "",
+    "license": "ISC"
   }
-}
+  

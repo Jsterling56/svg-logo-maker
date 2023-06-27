@@ -1,6 +1,4 @@
-export { coloursArray };
-
-const coloursArray = [
+const colorsArray = [
     "aliceblue",
     "antiquewhite",
     "aqua",
@@ -111,7 +109,7 @@ const coloursArray = [
     "orchid",
     "palegoldenrod",
     "palegreen",
-    "paleturquoise",
+    "paleturquoise", 
     "palevioletred",
     "papayawhip",
     "peachpuff",
@@ -148,3 +146,5 @@ const coloursArray = [
     "yellow",
     "yellowgreen"
 ];
+
+export {colorsArray};

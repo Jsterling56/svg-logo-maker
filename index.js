@@ -40,7 +40,7 @@ inquirer
       message: 'Enter the shape color (hexadecimal or keyword):',
       validate: (input) => {
         // check if the input is a valid CSS color name
-        const isColorName = colorrsArray.includes(input.toLowerCase());
+        const isColorName = colorsArray.includes(input.toLowerCase());
         // check if the input is a valid hex color code
         const isHexCode = /^#[0-9A-F]{6}$/i.test(input);
         return isColorName || isHexCode;
