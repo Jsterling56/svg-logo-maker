@@ -7,8 +7,8 @@ This app does not launch in a browser and instead uses a console line interface 
 
 
 ## Dependencies Used:
-Node.js (https://www.nodejs.org/en)
-Inquirer (https://www.npmjs.com/package/inquirer) 
+Node.js (https://www.nodejs.org/en),
+Inquirer (https://www.npmjs.com/package/inquirer),
 Jest (https://www.npmjs.com/package/jest)
 
 
@@ -21,7 +21,7 @@ SO THAT I don't have to pay a graphic designer
 
 ## Credit
 Code is not mine. Code is from (https://github.com/rmessett15/SVG-Logo-Maker). 
-Helpful links included (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes) and (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts). ChatGPT was used for debugging purposes. As always, thanks to Rommel and Ringo.
+Helpful links included (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes), (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts), and (https://jestjs.io/docs/getting-started). ChatGPT and Google were used for debugging purposes. As always, thanks to Rommel and Ringo.
 
 ## License
 MIT License
