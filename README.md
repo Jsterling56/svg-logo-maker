@@ -21,7 +21,8 @@ SO THAT I don't have to pay a graphic designer
 
 ## Credit
 Code is not mine. Code is from (https://github.com/rmessett15/SVG-Logo-Maker). 
-Helpful links included (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes), (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts), and (https://jestjs.io/docs/getting-started). ChatGPT and Google were used for debugging purposes. As always, thanks to Rommel and Ringo.
+Helpful links included (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes), (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts), and (https://jestjs.io/docs/getting-started). 
+ChatGPT and Google were used for debugging purposes. As always, thanks to Rommel and Ringo.
 
 ## License
 MIT License
