@@ -18,11 +18,13 @@ I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
 ## Demonstration Video:
+(https://drive.google.com/file/d/1026S_TMDGroqVCuZgURSqrU2kiY4If4d/view)
 
 ## Credit
-Code is not mine. Code is from (https://github.com/rmessett15/SVG-Logo-Maker). 
+Some code is from (https://github.com/rmessett15/SVG-Logo-Maker). 
+AskBCS, ChatGPT and Google were used to troubleshoot errors. 
 Helpful links included (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes), (https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts), and (https://jestjs.io/docs/getting-started). 
-ChatGPT and Google were used for debugging purposes. As always, thanks to Rommel and Ringo.
+As always, thanks to Rommel and Ringo.
 
 ## License
 MIT License
